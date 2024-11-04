@@ -71,7 +71,7 @@ html, body {
      justify-content: center;
      position: relative;     
      background: url('plano_de_fundo2.png') no-repeat center center;
-     background-size: 100%;
+     background-size: auto;
      background-attachment: fixed;
      height: calc(100vh - 60px - 60px); /* Altura adaptada para caber entre o header e o footer */
      width: 100%;
